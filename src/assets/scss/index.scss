@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: #FBF6F0;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.root {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.ct-toast {
+  font-family: Poppins, Roboto, sans-serif;
+}

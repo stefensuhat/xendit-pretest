@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "email": "stefensuhat@gmail.com",
+      "password": "U2FsdGVkX1/etFONAkd1Cq5zUsLg5oTcVz3q61ZvgJk=",
+      "id": 1
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "password": "U2FsdGVkX19xTuJJlJRMuB4DPBDxaDoHC534Tv6fVaE=",
+      "id": 2
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "password": "U2FsdGVkX18oAlS4CW7ZZy6H6DhJwQ4U4wKsMY7wZUI=",
+      "id": 3
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "password": "U2FsdGVkX1+PcxhQVp+lw5/Qrg6Gn+ZprrkzPfF69XA=",
+      "id": 4
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "password": "U2FsdGVkX19xr02cupoTFdyX6wa/VlQYpbjYlj+Eaj8=",
+      "id": 5
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 1,
+      "email": "stefensuhat@gmail.com"
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "stefensuhat@gmail.com",
+      "id": 5
+    }
+  ],
+  "favorites": []
+}

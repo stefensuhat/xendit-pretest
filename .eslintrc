@@ -1,0 +1,71 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "airbnb"
+  ],
+  "env": {
+    "jest": true
+  },
+  "globals": {
+    "window": true,
+    "localStorage": true
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": [
+          "src",
+          "src/assets"
+        ]
+      }
+    }
+  },
+  "rules": {
+    "max-len": [
+      1,
+      120
+    ],
+    "indent": [
+      1,
+      4
+    ],
+    "react/jsx-indent": [
+      1,
+      4
+    ],
+    "react/jsx-indent-props": [
+      1,
+      4
+    ],
+    "import/extensions": [
+      0
+    ],
+    "import/no-unresolved": 0,
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "packageDir": "./"
+      }
+    ],
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".tsx"
+        ]
+      }
+    ],
+    "react/jsx-props-no-spreading": 0,
+    "react/state-in-constructor": 0,
+    "react/forbid-prop-types": 0,
+    "no-unused-expressions": [
+      "error",
+      {
+        "allowTernary": true
+      }
+    ],
+    "react-hooks/exhaustive-deps": 0
+  }
+}
